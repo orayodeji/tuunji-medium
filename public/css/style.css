@@ -1,0 +1,25 @@
+body{
+    background-color: blueviolet;
+}
+
+p{
+    margin: 10px 0 !important;
+}
+
+.container{
+    width: 800px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.fa-small{
+    font-size: 16px !important;
+}
+.btn-float{
+    float: left;
+    margin-right: 10px;
+}
+
+.img-small {
+    width: 180px;
+}
